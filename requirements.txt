@@ -1,0 +1,4 @@
+robotframework==6.1.1
+robotframework-requests
+robotframework-faker
+setuptools
