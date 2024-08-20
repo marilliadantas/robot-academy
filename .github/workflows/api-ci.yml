@@ -51,7 +51,7 @@ jobs:
       id-token: write
     environment:
       name: github-pages
-      url: https://marilliadantas.github.io/robot-academy/log.html
+      url: https://marilliadantas.github.io/robot-academy/report.html
     steps:
       - name: Setup Pages
         uses: actions/configure-pages@v5
